@@ -36,6 +36,4 @@ let PI = 3.1415;
 let myFirstJob = 'Programmer';
 let myCurrentJob = 'Teacher';
 
-
-
 console.log(myFirstJob);
