@@ -1,0 +1,32 @@
+let num1 = 10;
+let num2 = 15;
+let num3 = 20;
+
+// Addition
+console.log(num1 + num2);
+console.log(num1 + num2 + num3);
+
+// Subtraction
+console.log(num2 - num1);
+console.log(num3 - num2 - num1);
+
+// Multiplication
+console.log(num1 * num2);
+
+// Division
+console.log(num2/num1);
+
+// Modulus
+console.log(num2 % num1);
+
+// Increment - Post and Pre
+console.log(num1++);
+console.log(num1++);
+console.log(num1);
+
+console.log(++num1);
+console.log(num1);
+
+// Decrement - Post and Pre
+console.log(--num1);
+console.log(num1);
