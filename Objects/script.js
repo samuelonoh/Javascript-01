@@ -77,6 +77,3 @@
 // }
 
 // console.log(person.about());
-
-
-
