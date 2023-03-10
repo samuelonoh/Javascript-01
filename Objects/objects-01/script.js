@@ -77,3 +77,21 @@
 // }
 
 // console.log(person.about());
+
+// OBJECT => Not in order
+const jonas = {
+    firstName: 'Jonas',
+    lastName: 'Schmedtmann',
+    age: 2037-1991,
+    job: 'teacher',
+    friends: ['michael', 'Peter', 'Steven']
+};
+
+// ARRAY => In order
+const jonasArray = [
+    'Jonas',
+    'Schmedtmann',
+    2037-19991,
+    'teacher',
+    ['michael', 'Peter', 'Steven']
+]
